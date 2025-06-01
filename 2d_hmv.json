@@ -1,7 +1,34 @@
 {
-  "last_updated": "2025-05-31T01:24:24.357224+00:00",
-  "total_videos": 4163,
+  "last_updated": "2025-06-01T01:50:06.798768+00:00",
+  "total_videos": 4166,
   "videos": [
+    {
+      "title": "[Kurama18] Tremors – Mini HMV",
+      "slug": "kurama18-tremors-mini-hmv",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Kurama18-Tremors-Mini-HMV_cover.jpg",
+      "views": "10 Views",
+      "upload_date": "May 31 2025",
+      "duration": "0:59",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Kurama18-Tremors-Mini-HMV.mp4"
+    },
+    {
+      "title": "[HigherToad] Rhythm Heaven Fever – Rabbit Hole",
+      "slug": "highertoad-rhythm-heaven-fever-rabbit-hole",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_HigherToad-Rhythm-Heaven-Fever-Rabbit-Hole_cover.jpg",
+      "views": "9 Views",
+      "upload_date": "May 31 2025",
+      "duration": "2:41",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_HigherToad-Rhythm-Heaven-Fever-Rabbit-Hole.mp4"
+    },
+    {
+      "title": "[Kurayami] Alicia",
+      "slug": "kurayami-alicia",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Kurayami-Alicia_cover.jpg",
+      "views": "8 Views",
+      "upload_date": "Apr 12 2025",
+      "duration": "2:19",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Kurayami-Alicia.mp4"
+    },
     {
       "title": "[ForceStarD] Drop It!",
       "slug": "forcestard-drop-it",
