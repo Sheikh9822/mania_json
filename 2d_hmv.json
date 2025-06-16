@@ -1,7 +1,52 @@
 {
-  "last_updated": "2025-06-15T01:44:42.021894+00:00",
-  "total_videos": 4225,
+  "last_updated": "2025-06-16T01:39:47.023608+00:00",
+  "total_videos": 4230,
   "videos": [
+    {
+      "title": "[Ayos] TSF Monogatari",
+      "slug": "ayos-tsf-monogatari",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2025/05/TSF-Monogatari.jpg",
+      "views": "12 Views",
+      "upload_date": "Jun 15 2025",
+      "duration": "3:42",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_720p_Ayos-TSF-Monogatari.mp4"
+    },
+    {
+      "title": "[Albinohawk] Endurance",
+      "slug": "albinohawk-endurance",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_720p_Albinohawk-Endurance_cover.jpg",
+      "views": "10 Views",
+      "upload_date": "Jun 10 2025",
+      "duration": "2:22",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_720p_Albinohawk-Endurance.mp4"
+    },
+    {
+      "title": "[AΣ] Cosplay Day (DDR version)",
+      "slug": "aσ-cosplay-day-ddr-version",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/AlphaSigma-Cosplay-Day-DDR-version_cover.jpg",
+      "views": "8 Views",
+      "upload_date": "Jun 15 2025",
+      "duration": "2:27",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_AlphaSigma-Cosplay-Day-DDR-version.mp4"
+    },
+    {
+      "title": "[ChisatoHMV] Saimin Combo 1",
+      "slug": "chisatohmv-saimin-combo-1",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/AddText_06-14-10.26.35.jpg",
+      "views": "10 Views",
+      "upload_date": "Jun 15 2025",
+      "duration": "2:09",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_2160p_ChisatoHMV-Saimin-Combo-1.mp4"
+    },
+    {
+      "title": "[Dom00] Move your body",
+      "slug": "dom00-move-your-body",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Dom00-Move-your-body_cover.jpg",
+      "views": "11 Views",
+      "upload_date": "Jun 11 2025",
+      "duration": "2:36",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Dom00-Move-your-body.mp4"
+    },
     {
       "title": "[Ninetales] Drop Out HMV – Touch Me",
       "slug": "ninetales-drop-out-hmv-touch-me",
