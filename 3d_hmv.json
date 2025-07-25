@@ -1,7 +1,16 @@
 {
-  "last_updated": "2025-07-23T01:44:07.006003+00:00",
-  "total_videos": 372,
+  "last_updated": "2025-07-25T01:42:52.274875+00:00",
+  "total_videos": 373,
   "videos": [
+    {
+      "title": "[Albinohawk] (3D) Be My Gameboy",
+      "slug": "albinohawk-3d-be-my-gameboy",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Albinohawk-3D-Be-My-Gameboy_cover.jpg",
+      "views": "9 Views",
+      "upload_date": "Jul 20 2025",
+      "duration": "3:29",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Albinohawk-3D-Be-My-Gameboy.mp4"
+    },
     {
       "title": "[Heenix] (3D) Tir_Al",
       "slug": "heenix-3d-tir_al",
