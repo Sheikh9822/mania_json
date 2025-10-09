@@ -1,7 +1,43 @@
 {
-  "last_updated": "2025-10-08T01:19:05.585537+00:00",
-  "total_videos": 4682,
+  "last_updated": "2025-10-09T01:19:51.140331+00:00",
+  "total_videos": 4686,
   "videos": [
+    {
+      "title": "[popsrich] Arknights HMV (Epitaph)",
+      "slug": "popsrich-arknights-hmv-epitaph",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_popsrich-Arknights-HMV-Epitaph_cover_v2.jpg",
+      "views": "10 Views",
+      "upload_date": "Sep 18 2025",
+      "duration": "2:31",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_popsrich-Arknights-HMV-Epitaph.mp4"
+    },
+    {
+      "title": "[Thanagor] Soredemo Tsuma (the newest one)",
+      "slug": "thanagor-soredemo-tsuma-the-newest-one",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Thanagor-Soredemo-Tsuma-the-newest-one_cover.jpg",
+      "views": "8 Views",
+      "upload_date": "Sep 18 2025",
+      "duration": "1:55",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Thanagor-Soredemo-Tsuma-the-newest-one.mp4"
+    },
+    {
+      "title": "[notnoot] ShaggySUSU HMV VHS",
+      "slug": "notnoot-shaggysusu-hmv-vhs",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_notnoot-ShaggySUSU-HMV-VHS_cover.jpg",
+      "views": "8 Views",
+      "upload_date": "Sep 18 2025",
+      "duration": "2:00",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_notnoot-ShaggySUSU-HMV-VHS.mp4"
+    },
+    {
+      "title": "[Kitguwa] Chocolate & Caramel",
+      "slug": "kitguwa-chocolate-caramel",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Kitguwa-Chocolate-Caramel_cover.jpg",
+      "views": "8 Views",
+      "upload_date": "Sep 18 2025",
+      "duration": "3:15",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Kitguwa-Chocolate-Caramel.mp4"
+    },
     {
       "title": "[kaka] drop it",
       "slug": "kaka-drop-it",
