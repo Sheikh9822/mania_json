@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-01-12T01:47:31.069611+00:00",
-  "total_videos": 5065,
+  "last_updated": "2026-01-13T01:39:38.424068+00:00",
+  "total_videos": 5069,
   "videos": [
+    {
+      "title": "[Martoise] VERTICAL#01 (DDR version)",
+      "slug": "martoise-vertical01-ddr-version",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/Martoise-VERTICAL01-DDR-version_cover.jpg",
+      "views": "15 Views",
+      "upload_date": "Apr 15 2025",
+      "duration": "3:13",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1440p_Martoise-VERTICAL01-DDR-version.mp4"
+    },
+    {
+      "title": "[firefox0303] Chizuru-Chan Development Diary – Final Corruption",
+      "slug": "firefox0303-chizuru-chan-development-diary-final-corruption",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2026/01/Final.jpg",
+      "views": "18 Views",
+      "upload_date": "Jan 12 2026",
+      "duration": "2:44",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_firefox0303-Chizuru-Chan-Development-Diary-Final-Corruption.mp4"
+    },
+    {
+      "title": "[zxchmv002] Zxchmv47",
+      "slug": "zxchmv002-zxchmv47",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_720p_zxchmv002-Zxchmv47_cover.jpg",
+      "views": "11 Views",
+      "upload_date": "Dec 15 2025",
+      "duration": "2:46",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_720p_zxchmv002-Zxchmv47.mp4"
+    },
+    {
+      "title": "[Thefunkyguy] Shoutabrobine",
+      "slug": "thefunkyguy-shoutabrobine",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Thefunkyguy-Shoutabrobine_cover.jpg",
+      "views": "9 Views",
+      "upload_date": "Jan 10 2026",
+      "duration": "1:31",
+      "download_link": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Thefunkyguy-Shoutabrobine.mp4"
+    },
     {
       "title": "[nnastychl0ro] ICY",
       "slug": "nnastychl0ro-icy",
