@@ -1,0 +1,19 @@
+{
+  "name": "Cybernet18 HMV",
+  "lang": "en",
+  "version": 1,
+  "type": "anime",
+  "nsfw": true,
+  "baseUrl": "https://cybernet18.netlify.app",
+
+  "categories": [
+    {
+      "name": "2D HMV",
+      "url": "https://raw.githubusercontent.com/Sheikh9957/mania_json/main/2d_hmv.json"
+    },
+    {
+      "name": "3D HMV",
+      "url": "https://raw.githubusercontent.com/Sheikh9957/mania_json/main/3d_hmv.json"
+    }
+  ]
+}
